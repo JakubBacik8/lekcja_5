@@ -1,0 +1,1 @@
+To jest plik lekcja_5.txt
